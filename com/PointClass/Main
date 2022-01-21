@@ -1,0 +1,8 @@
+package com.PointClass;
+
+public class Main {
+    public static void main(String[] args) {
+    PointClass PointClass1 = new PointClass;
+    System.out.println(PointClass1);
+    }
+}
